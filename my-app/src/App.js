@@ -38,7 +38,8 @@ function App() {
         <h1>{data.name + "" + data.email}</h1>
       </div> */}
       {/* <Props1/> */}
-      <Counter/>
+      {/* <Counter/> */}
+
     
     </div>
   );
